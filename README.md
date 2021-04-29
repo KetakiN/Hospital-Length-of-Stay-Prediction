@@ -6,10 +6,12 @@ https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identi
 Table of Contents:
 Docs
 
+
 Final Report
 Report containing data wrangling, exploratory data analysis, and machine learning explanation for the project
 Presentation
 Powerpoint Presentation containing complete summary and findings for the project.
 Notebooks
 The notebooks below contain the data analysis and ML code used for this project. 
+https://github.com/KetakiN/HospitalStayPrediction/tree/main/Notebooks
 
