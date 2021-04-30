@@ -9,9 +9,11 @@ Table of Contents:
 https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identified/mpue-vn67
 
 2) Docs:
-Report containing data wrangling, exploratory data analysis, and machine learning explanation for the project
+
+*Report containing data wrangling, exploratory data analysis, and machine learning explanation for the project
 Presentation
-Powerpoint Presentation containing complete summary and findings for the project.
+
+*Powerpoint Presentation containing complete summary and findings for the project.
 
 3) Notebooks:
 The notebooks below contain the data analysis and ML code used for this project. 
