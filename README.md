@@ -16,6 +16,7 @@ Table of Contents:
    *Powerpoint Presentation containing complete summary and findings for the project.
 
 3) Notebooks:
-    The notebooks below contain the data analysis and ML code used for this project. 
+
+    *The notebooks contain the data analysis and ML code used for this project. 
     
 
