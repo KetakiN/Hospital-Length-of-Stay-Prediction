@@ -1,4 +1,4 @@
-# Hospital-Length-of-Stay-Prediction
+# HospitalStayPrediction
 
 This folder contains the work for an Hospital length of stay prediction project. The goal of the machine learning model is to predict and identify when greater than mean length of stay may be required for patients based on their admission characteristics . The data was extracted from the New York State Department of Health deidentified 2014 Dataset.
 
