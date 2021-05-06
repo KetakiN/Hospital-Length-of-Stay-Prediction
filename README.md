@@ -13,7 +13,7 @@ Table of Contents:
    *Report containing data wrangling, exploratory data analysis, and machine learning explanation for the project
     Presentation
 
-   *Google Slides Presentation containing complete summary and findings for the project.
+   *Power Point Presentation containing complete summary and findings for the project.
 
 3) Notebooks:
 
