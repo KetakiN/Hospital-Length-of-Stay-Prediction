@@ -5,8 +5,8 @@ This folder contains the work for an Hospital length of stay prediction project.
 
 Table of Contents:
 
-1) Dataset:
-    https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identified/mpue-vn67
+1) Dataset: 
+    [Dataset link] (https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identified/mpue-vn67)
 
 2) Docs:
 
