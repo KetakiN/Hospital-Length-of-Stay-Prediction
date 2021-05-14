@@ -17,6 +17,6 @@ Table of Contents:
 
 3) Notebooks:
 
-    *The notebooks contain the data analysis and ML code used for this project. 
+    The [notebooks](https://github.com/KetakiN/HospitalStayPrediction/tree/main/Notebooks) contain the data analysis and ML code used for this project. 
     
 
