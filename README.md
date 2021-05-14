@@ -13,7 +13,7 @@ Table of Contents:
    [Report](https://github.com/KetakiN/HospitalStayPrediction/blob/main/Docs/HospitalProjectReport.docx%20(1).pdf) containing data wrangling, exploratory data analysis, and machine learning explanation for the project
     presentation
 
-   *Power Point Presentation containing complete summary and findings for the project.
+   [Power Point Presentation](https://github.com/KetakiN/HospitalStayPrediction/blob/main/Docs/Project_Presentation%20(2).pptx) containing complete summary and findings for the project.
 
 3) Notebooks:
 
